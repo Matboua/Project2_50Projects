@@ -6,7 +6,11 @@ This is my second project from the #50projects50days challenge. In this project,
 
 ### Demo
 
-![Project Demo](https://matboua.github.io/Project2_50Projects/challenge2/)
+ctrl+click to open in a new Tab: [Project Demo](https://matboua.github.io/Project2_50Projects/challenge2/)
+
+### Video
+
+https://github.com/Matboua/Project2_50Projects/assets/115326235/a1a8ea19-9250-4339-83f0-3d57d80ecc54
 
 ### Technologies Used
 
